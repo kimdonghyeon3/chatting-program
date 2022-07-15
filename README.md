@@ -63,7 +63,7 @@ Java 기초 실습을 활용하기 위해 시작한 프로젝트로 서버 - 클
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/kimdonghyeon3/escaperoom.git
+   git clone https://github.com/kimdonghyeon3/chatting-program.git
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
